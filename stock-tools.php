@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Stock Tools
  * Description: A WordPress plugin with a set of tools for displaying stock information.
- * Version: 1.0
+ * Version: 1.1
  * Author: Patrick Daly
  * Author URI: http://developdaly.com
  *
@@ -17,7 +17,7 @@
 add_shortcode( 'stock_tools', 'stock_tools_shortcode' );
 
 /*
- * Executes the [stock-tools] shortcode.
+ * Executes the [stock_tools] shortcode.
  */
 function stock_tools_shortcode( $atts ) {
 
