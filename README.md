@@ -3,7 +3,7 @@ Contributors: developdaly
 Tags: shortcode, stocks, ticker, graph, google finance, yahoo finance  
 Requires at least: 3.5
 Tested up to: 3.5.1
-Stable tag: 1.0
+Stable tag: 1.1
 
 A WordPress plugin with a set of tools for displaying stock information.
 
