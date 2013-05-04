@@ -14,10 +14,10 @@
  * even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
  */
 
-add_shortcode( 'stock_tools', 'stock_tools_shortcode' );
+add_shortcode( 'stock-tools', 'stock_tools_shortcode' );
 
 /*
- * Executes the [stock_tools] shortcode.
+ * Executes the [stock-tools] shortcode.
  */
 function stock_tools_shortcode( $atts ) {
 
